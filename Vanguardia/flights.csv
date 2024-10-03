@@ -1,0 +1,4 @@
+Year,Month,DayofMonth,DayOfWeek,Carrier,OriginAirportID,OriginAirportName,DestAirportID,DestAirportName,DepDelay,ArrDelay,Cancelled
+2013,1,1,2,AA,12478,John F Kennedy Intl,13930,San Francisco Intl,10,5,0
+2013,2,15,5,UA,12892,Los Angeles Intl,12892,Los Angeles Intl,-5,0,0
+2013,3,22,7,DL,13930,Chicago O Hare Intl,13930,San Francisco Intl,25,15,1
